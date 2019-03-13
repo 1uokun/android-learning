@@ -4,9 +4,9 @@
     android:id="@+id/FrameLayout1"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MainActivity"
-    android:foreground="@drawable/my_future_girlfriend"
-    android:foregroundGravity="right|bottom">
+    tools:context=".MainActivity">
+    <!--android:foreground="@drawable/my_future_girlfriend"-->
+    <!--android:foregroundGravity="right|bottom">-->
 
     <View android:layout_width="200dp"
         android:layout_height="200dp"
